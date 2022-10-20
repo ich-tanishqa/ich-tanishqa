@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/34/42/T5SqAO.jpg" height="400" width=80% >
+<img src="https://cdn.wallpapersafari.com/34/42/T5SqAO.jpg" height="400" width=80% align="center" >
 
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;</h1>
 <h3 align="center">I'm Tanishqa Bansal. A passionate web developer and a freelance coder based in India.</h3>
