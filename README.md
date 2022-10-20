@@ -1,4 +1,4 @@
-<img src="https://www.itl.cat/pngfile/big/171-1712537_bring-the-power-of-ai-to-your-business.jpg" height="400" width=100% align="center" >
+<img src="https://www.itl.cat/pngfile/big/171-1712537_bring-the-power-of-ai-to-your-business.jpg" height="600" width=100% align="center" >
 
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;</h1>
 <h3 align="center">I'm Tanishqa Bansal. A passionate web developer and a freelance coder based in India.</h3>
