@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bansaltanishqa@gmail.com**
 
-- 📄 Know about my experiences [https://aquamarine-etheline-52.tiiny.site](https://aquamarine-etheline-52.tiiny.site)
+- 📄 Know about my experiences [https://drive.google.com/file/d/175DNxEncCYGkt0anegqs-02WRAmW2Ugc/view?usp=sharing](https://drive.google.com/file/d/175DNxEncCYGkt0anegqs-02WRAmW2Ugc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
