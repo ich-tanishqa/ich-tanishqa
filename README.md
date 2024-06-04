@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif)
 <h1 align="center">Hi 👋, I'm Tanishqa</h1>
-<h3 align="center">A tech savvy from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+<h3 align="center">A tech enthusiast from India</h3>
+<img align="right" alt="Coding" width="420" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ich-tanishqa&label=Profile%20views&color=0e75b6&style=flat" alt="ich-tanishqa" /> </p>
 
